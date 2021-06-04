@@ -1,0 +1,23 @@
+﻿  YoloV5.cpp
+c:\users\y1171\source\repos\yolov5_ncnn\yolov5_ncnn\yolov5.cpp(129): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\y1171\source\repos\yolov5_ncnn\yolov5_ncnn\yolov5.cpp(136): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\y1171\source\repos\yolov5_ncnn\yolov5_ncnn\yolov5.cpp(136): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+c:\users\y1171\source\repos\yolov5_ncnn\yolov5_ncnn\yolov5.cpp(290): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\y1171\source\repos\yolov5_ncnn\yolov5_ncnn\yolov5.cpp(296): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\y1171\source\repos\yolov5_ncnn\yolov5_ncnn\yolov5.cpp(389): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\y1171\source\repos\yolov5_ncnn\yolov5_ncnn\yolov5.cpp(453): warning C4244: “初始化”: 从“const _Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\y1171\source\repos\yolov5_ncnn\yolov5_ncnn\yolov5.cpp(454): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  正在生成代码
+  1 of 357 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  YoloV5_ncnn.vcxproj -> C:\Users\y1171\source\repos\YoloV5_ncnn\x64\Release\YoloV5_ncnn.exe
