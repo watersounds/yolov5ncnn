@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yrc/文档/Project/yolov5ncnn/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /home/yrc/opencvlib/include/opencv4 -isystem /home/yrc/文档/ncnn/ncnn/build/install/include/ncnn  -g -fPIE   -fopenmp -pthread -o CMakeFiles/yolov5.dir/src/YoloV5.cpp.o -c /home/yrc/文档/Project/yolov5ncnn/src/YoloV5.cpp",
+  "file": "/home/yrc/文档/Project/yolov5ncnn/src/YoloV5.cpp"
+}
+]
